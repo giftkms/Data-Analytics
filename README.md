@@ -42,10 +42,7 @@ Select the necessary table  for Cleaning and Transformations by SQL Server
 ## Visualization By Power BI
 
 - import table and connect data together for data model
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d77f9d3d-aeef-4df5-be23-1b9d722e0505/Untitled.png)
-    
-
+    ![connect_data](https://github.com/giftkms/Data-Analytics/assets/45896182/7e3cb481-9209-4f8d-b096-1a7a3f86f937)
 - Mesured total budget ,Toal sale  and KPI
 - Design dashboard for
     - Top 10 customers
@@ -54,10 +51,9 @@ Select the necessary table  for Cleaning and Transformations by SQL Server
     - KPI
     - filter date month
     - sales of Category products in donut chart
- 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b29fd907-b727-4ffa-a561-545d39b4d5bb/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5df472cf-5b8f-4aa5-947f-d194cebbf197/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/325d780d-7893-42b2-8e22-1dc4b82cba2d/Untitled.png)
+![Sales_Overviews](https://github.com/giftkms/Data-Analytics/assets/45896182/ba8903a9-4245-4290-9191-7810b16f342c)
+![Customer_Details](https://github.com/giftkms/Data-Analytics/assets/45896182/612ee624-c643-4c3a-956a-5a8480e7261a)
+![Product_Details](https://github.com/giftkms/Data-Analytics/assets/45896182/097efb67-01ae-4b1a-b241-ad9845179eea)
 
 
 
