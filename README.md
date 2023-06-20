@@ -43,6 +43,7 @@ Select the necessary table  for Cleaning and Transformations by SQL Server
 
 - import table and connect data together for data model
     ![connect_data](https://github.com/giftkms/Data-Analytics/assets/45896182/7e3cb481-9209-4f8d-b096-1a7a3f86f937)
+  Product_Details.png.
 - Mesured total budget ,Toal sale  and KPI
 - Design dashboard for
     - Top 10 customers
@@ -53,7 +54,8 @@ Select the necessary table  for Cleaning and Transformations by SQL Server
     - sales of Category products in donut chart
 ![Sales_Overviews](https://github.com/giftkms/Data-Analytics/assets/45896182/ba8903a9-4245-4290-9191-7810b16f342c)
 ![Customer_Details](https://github.com/giftkms/Data-Analytics/assets/45896182/612ee624-c643-4c3a-956a-5a8480e7261a)
-Product_Details.png
+![Product_Details](https://github.com/giftkms/Data-Analytics/blob/main/Product_Details.png)
+
 
 
 
