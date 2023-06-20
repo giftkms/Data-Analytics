@@ -16,7 +16,7 @@ this is the example databaes from microsoft https://github.com/Microsoft/sql-ser
 
 
 ## Database Overview
-this is the example databaes from microsoft https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak 
+this is the example databaes from microsoft 
 - Explore the linkage of the data. (Primary key and Foreign key)
 
   ## Clean and Transformations
@@ -42,7 +42,7 @@ Select the necessary table  for Cleaning and Transformations by SQL Server
 ## Visualization By Power BI
 
 - import table and connect data together for data model
-    ![connect_data](https://github.com/giftkms/Data-Analytics/assets/45896182/7e3cb481-9209-4f8d-b096-1a7a3f86f937)
+    ![connect_data](https://github.com/giftkms/Data-Analytics/blob/main/connect_data.png)
   Product_Details.png.
 - Mesured total budget ,Toal sale  and KPI
 - Design dashboard for
@@ -52,8 +52,8 @@ Select the necessary table  for Cleaning and Transformations by SQL Server
     - KPI
     - filter date month
     - sales of Category products in donut chart
-![Sales_Overviews](https://github.com/giftkms/Data-Analytics/assets/45896182/ba8903a9-4245-4290-9191-7810b16f342c)
-![Customer_Details](https://github.com/giftkms/Data-Analytics/assets/45896182/612ee624-c643-4c3a-956a-5a8480e7261a)
+![Sales_Overviews](https://github.com/giftkms/Data-Analytics/blob/main/Customer_Details.png)
+![Customer_Details](https://github.com/giftkms/Data-Analytics/blob/main/Sales_Overviews.png)
 ![Product_Details](https://github.com/giftkms/Data-Analytics/blob/main/Product_Details.png)
 
 
