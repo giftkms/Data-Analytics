@@ -13,4 +13,3 @@ Seeing as each sales person works on different products and customers it would b
 
 ## Database Overview
 this is the example databaes from microsoft 
-
