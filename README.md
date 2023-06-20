@@ -12,5 +12,5 @@ Seeing as each sales person works on different products and customers it would b
   ![image](https://github.com/giftkms/Data-Analytics/assets/45896182/113f995c-d2b3-4ac3-a7fd-83f21378ec20)
 
 ## Database Overview
-this is the example databaes from microsoft AdventureWorksDW2022.bak
+this is the example databaes from microsoft 
 
